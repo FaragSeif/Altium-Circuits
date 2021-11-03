@@ -1,0 +1,29 @@
+Added Component: Designator=J1(PAD)
+Add component (AddParameter): Name = "ChipDip_Link"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://static.chipdip.ru/lib/227/DOC000227157.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Instructions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Connfly electronic (Zhenqin)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PLS-3 (DS1021-1x3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pacage Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(PAD)
+Add component (AddParameter): Name = "ChipDip_Link"; Value = "https://www.chipdip.ru/product/pls-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://static.chipdip.ru/lib/227/DOC000227157.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Instructions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Connfly electronic (Zhenqin)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PLS-3 (DS1021-1x3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pacage Metric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=RESET Pin=J2-1
+Added Member To Class: ClassName=STM32_BareBones Member=Component J1 PAD
+Added Member To Class: ClassName=STM32_BareBones Member=Component J2 PAD
+Added Room: Name=STM32_BareBones
