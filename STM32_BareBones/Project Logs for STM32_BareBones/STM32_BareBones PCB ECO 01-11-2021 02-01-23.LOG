@@ -1,0 +1,10 @@
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC1608X90N"; UniqueID = "\ECBWZOVY" ("\ECBWZOVY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ChipDip_Link"; Value = "https://www.chipdip.ru/product0/8576565346"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C1608X7R1H474K080AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 (1608) TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1608X7R1H474K080AC/TDK/view-part/360155/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Room: Name=STM32_BareBones

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PA12 Pin=D1-C
+Added Pin To Net: NetName=PB6 Pin=D1-C
+Added Room: Name=STM32_BareBones
